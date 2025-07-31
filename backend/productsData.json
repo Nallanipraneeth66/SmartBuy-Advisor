@@ -1,0 +1,2755 @@
+[{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594768"
+  },
+  "name": "Samsung Galaxy S23 Ultra (256GB, Phantom Black)",
+  "company": "Samsung",
+  "category": "Mobile",
+  "features": [
+    "200MP Camera",
+    "Snapdragon 8 Gen 2",
+    "12GB RAM",
+    "5000mAh",
+    "S Pen"
+  ],
+  "price": 114999,
+  "rating": 4.8,
+  "description": "Flagship smartphone with pro-grade camera and built-in S Pen.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BT9CXXXZ/",
+  "image": "https://m.media-amazon.com/images/I/71qGismu6NL._SL1500_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594769"
+  },
+  "name": "Apple iPhone 15 Pro (128GB, Titanium)",
+  "company": "Apple",
+  "category": "Mobile",
+  "features": [
+    "A17 Pro chip",
+    "Titanium design",
+    "48MP Main camera",
+    "USB-C"
+  ],
+  "price": 134900,
+  "rating": 4.9,
+  "description": "Premium iPhone with aerospace-grade titanium enclosure.",
+  "buyFrom": "Apple Store",
+  "link": "https://www.apple.com/in/iphone-15-pro/",
+  "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch?wid=5120&hei=2880&fmt=jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476a"
+  },
+  "name": "OnePlus 11 5G (256GB, Eternal Green)",
+  "company": "OnePlus",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 8 Gen 2",
+    "100W SUPERVOOC",
+    "50MP Sony IMX890",
+    "120Hz AMOLED"
+  ],
+  "price": 61999,
+  "rating": 4.7,
+  "description": "Hasselblad-tuned camera system with 100W fast charging.",
+  "buyFrom": "OnePlus Store",
+  "link": "https://www.oneplus.in/11-5g",
+  "image": "https://m.media-amazon.com/images/I/61amb0CfMGL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:06:41.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476b"
+  },
+  "name": "Xiaomi 13 Pro (256GB, Ceramic White)",
+  "company": "Xiaomi",
+  "category": "Mobile",
+  "features": [
+    "Leica optics",
+    "Snapdragon 8 Gen 2",
+    "120W HyperCharge",
+    "1-inch sensor"
+  ],
+  "price": 79999,
+  "rating": 4.6,
+  "description": "Co-engineered with Leica for professional-grade photography.",
+  "buyFrom": "Mi Store",
+  "link": "https://www.mi.com/in/product/xiaomi-13-pro/",
+  "image": "https://img-prd-pim.poorvika.com/product/Xiaomi-13-Pro-5G-Ceramic-White-01.png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:49:06.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476c"
+  },
+  "name": "Google Pixel 8 Pro (128GB, Obsidian)",
+  "company": "Google",
+  "category": "Mobile",
+  "features": [
+    "Tensor G3",
+    "Super Res Zoom 30x",
+    "Face Unlock",
+    "7 years updates"
+  ],
+  "price": 106999,
+  "rating": 4.7,
+  "description": "Google's AI-powered phone with longest software support.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/google-pixel-8-pro/p/itm6f9d5f5d5d5d5",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwBqLw-j15dNNNHSTzLufYh0525OlId4Cdw&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:48:42.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476d"
+  },
+  "name": "Vivo X90 Pro (256GB, Legend Black)",
+  "company": "Vivo",
+  "category": "Mobile",
+  "features": [
+    "MediaTek Dimensity 9200",
+    "ZEISS optics",
+    "120W FlashCharge",
+    "IP68"
+  ],
+  "price": 84990,
+  "rating": 4.6,
+  "description": "Professional photography smartphone with ZEISS optics.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BRN5XXXZ/",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/1/m/r/x90-pro-v2219-vivo-original-imagzzrqg2zbjfas.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:48:06.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476e"
+  },
+  "name": "Samsung Galaxy Z Fold5 (256GB, Icy Blue)",
+  "company": "Samsung",
+  "category": "Mobile",
+  "features": [
+    "7.6\" Main Display",
+    "Snapdragon 8 Gen 2",
+    "IPX8",
+    "S Pen support"
+  ],
+  "price": 154999,
+  "rating": 4.5,
+  "description": "Premium foldable phone with improved hinge mechanism.",
+  "buyFrom": "Samsung Shop",
+  "link": "https://shop.samsung.com/in/galaxy-z-fold5/",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/y/g/l/-original-imagztmghzuhz7kf.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:47:43.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59476f"
+  },
+  "name": "iQOO 11 5G (256GB, Legend)",
+  "company": "iQOO",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 8 Gen 2",
+    "144Hz E6 AMOLED",
+    "V2 chip",
+    "120W FlashCharge"
+  ],
+  "price": 59999,
+  "rating": 4.5,
+  "description": "Performance-focused smartphone with gaming features.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BPXXXYYY/",
+  "image": "https://m.media-amazon.com/images/I/618PBAqkLEL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:47:16.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594770"
+  },
+  "name": "Nothing Phone (2) (256GB, White)",
+  "company": "Nothing",
+  "category": "Mobile",
+  "features": [
+    "Glyph Interface",
+    "Snapdragon 8+ Gen 1",
+    "LTPO OLED",
+    "45W charging"
+  ],
+  "price": 44999,
+  "rating": 4.4,
+  "description": "Unique transparent design with LED glyph notifications.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/nothing-phone-2/p/itm6f9d5f5d5d5d5",
+  "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/301920_0_thffrs.png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:46:52.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594771"
+  },
+  "name": "Motorola Edge 40 (256GB, Eclipse Black)",
+  "company": "Motorola",
+  "category": "Mobile",
+  "features": [
+    "MediaTek Dimensity 8020",
+    "144Hz pOLED",
+    "68W charging",
+    "IP68"
+  ],
+  "price": 29999,
+  "rating": 4.3,
+  "description": "Slim and lightweight premium mid-range smartphone.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/motorola-edge-40/p/itm6f9d5f5d5d5d5",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/p/1/d/edge-40-pay40028in-motorola-original-imagpqzdf8knkgd9.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:46:29.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594772"
+  },
+  "name": "Realme GT 2 Pro (256GB, Paper White)",
+  "company": "Realme",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 8 Gen 1",
+    "2K AMOLED",
+    "50MP+50MP cameras",
+    "65W SuperDart"
+  ],
+  "price": 39999,
+  "rating": 4.4,
+  "description": "Flagship killer with bio-based polymer design.",
+  "buyFrom": "Realme Store",
+  "link": "https://www.realme.com/in/realme-gt-2-pro",
+  "image": "https://m.media-amazon.com/images/I/41oAmidZSYL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:46:05.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594773"
+  },
+  "name": "Asus ROG Phone 7 (256GB, Phantom Black)",
+  "company": "Asus",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 8 Gen 2",
+    "165Hz AMOLED",
+    "6000mAh",
+    "AirTrigger 7"
+  ],
+  "price": 74999,
+  "rating": 4.6,
+  "description": "Ultimate gaming smartphone with ultrasonic triggers.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BYXXXXXX/",
+  "image": "https://5.imimg.com/data5/ECOM/Default/2024/1/376849459/NZ/QD/HK/47699750/s-l1600-c0148a5e-031d-4993-a37b-df1db826825e.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:45:40.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594774"
+  },
+  "name": "Oppo Find N2 Flip (256GB, Astral Black)",
+  "company": "Oppo",
+  "category": "Mobile",
+  "features": [
+    "Foldable",
+    "MediaTek Dimensity 9000+",
+    "3.26\" Cover Screen",
+    "44W charging"
+  ],
+  "price": 89990,
+  "rating": 4.5,
+  "description": "Compact flip phone with largest cover screen.",
+  "buyFrom": "Oppo Store",
+  "link": "https://www.oppo.com/in/smartphones/series/find-n2-flip/",
+  "image": "https://mobitez.in/wp-content/uploads/2024/04/OPPO-Find-N2-Flip-Astral-Black-ps1-300x300.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:45:05.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594775"
+  },
+  "name": "Redmi Note 12 Pro+ 5G (256GB, Obsidian Black)",
+  "company": "Xiaomi",
+  "category": "Mobile",
+  "features": [
+    "200MP camera",
+    "MediaTek Dimensity 1080",
+    "120W HyperCharge",
+    "AMOLED"
+  ],
+  "price": 29999,
+  "rating": 4.3,
+  "description": "Budget phone with flagship-level 200MP camera.",
+  "buyFrom": "Mi Store",
+  "link": "https://www.mi.com/in/product/redmi-note-12-pro-plus/",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/z/a/b/-original-imaghkvv2u8jxajh.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:44:33.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594776"
+  },
+  "name": "Samsung Galaxy A54 5G (256GB, Awesome Violet)",
+  "company": "Samsung",
+  "category": "Mobile",
+  "features": [
+    "Exynos 1380",
+    "120Hz AMOLED",
+    "IP67",
+    "5000mAh"
+  ],
+  "price": 38999,
+  "rating": 4.2,
+  "description": "Premium mid-ranger with flagship-like design.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BXXXXXXX/",
+  "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/t/h/6/-original-imagnrhk2jpnnajr.jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:43:59.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594777"
+  },
+  "name": "Apple iPhone 14 (128GB, Midnight)",
+  "company": "Apple",
+  "category": "Mobile",
+  "features": [
+    "A15 Bionic",
+    "Ceramic Shield",
+    "12MP Dual camera",
+    "IP68"
+  ],
+  "price": 69900,
+  "rating": 4.7,
+  "description": "Previous gen iPhone with proven performance.",
+  "buyFrom": "Apple Store",
+  "link": "https://www.apple.com/in/iphone-14/",
+  "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594778"
+  },
+  "name": "OnePlus Nord 3 5G (256GB, Tempest Gray)",
+  "company": "OnePlus",
+  "category": "Mobile",
+  "features": [
+    "MediaTek Dimensity 9000",
+    "120Hz AMOLED",
+    "80W SUPERVOOC",
+    "50MP IMX890"
+  ],
+  "price": 33999,
+  "rating": 4.4,
+  "description": "Value flagship with premium performance.",
+  "buyFrom": "OnePlus Store",
+  "link": "https://www.oneplus.in/nord-3",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/z/2/b/nord-3-5g-cph2491-oneplus-original-imagrk2zdnbstuhn.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:43:27.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594779"
+  },
+  "name": "Poco F5 Pro (256GB, Black)",
+  "company": "Poco",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 8+ Gen 1",
+    "144Hz AMOLED",
+    "64MP OIS camera",
+    "67W turbo"
+  ],
+  "price": 36999,
+  "rating": 4.3,
+  "description": "Performance-oriented phone with flagship chipset.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/poco-f5-pro/p/itm6f9d5f5d5d5d5",
+  "image": "https://dakauf.eu/wp-content/uploads/2023/09/Xiaomi-Poco-F5-Pro-Black.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:43:03.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477a"
+  },
+  "name": "Nokia X30 5G (256GB, Cloudy Blue)",
+  "company": "Nokia",
+  "category": "Mobile",
+  "features": [
+    "Snapdragon 695",
+    "PureView camera",
+    "100% recycled aluminum",
+    "3 years OS"
+  ],
+  "price": 47999,
+  "rating": 4.1,
+  "description": "Sustainable smartphone with long software support.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BXXXXXXX/",
+  "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/268646_0_ujhaxl.png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:42:06.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477b"
+  },
+  "name": "Infinix Zero Ultra (256GB, Coslight Silver)",
+  "company": "Infinix",
+  "category": "Mobile",
+  "features": [
+    "MediaTek Dimensity 920",
+    "180W Thunder Charge",
+    "200MP OIS camera",
+    "AMOLED"
+  ],
+  "price": 32999,
+  "rating": 4,
+  "description": "Budget phone with fastest charging technology.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/infinix-zero-ultra/p/itm6f9d5f5d5d5d5",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/z/t/a/-original-imagh2jq3tfqgmmv.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:41:41.138Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477c"
+  },
+  "name": "Apple MacBook Air M2 (8GB/256GB)",
+  "company": "Apple",
+  "category": "Laptop",
+  "features": [
+    "13.6\" Liquid Retina",
+    "M2 chip",
+    "18hr battery",
+    "MagSafe"
+  ],
+  "price": 99900,
+  "rating": 4.9,
+  "description": "Thin and light laptop with Apple silicon performance.",
+  "buyFrom": "Apple Store",
+  "link": "https://www.apple.com/in/macbook-air-m2/",
+  "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477d"
+  },
+  "name": "Dell XPS 13 (i7/16GB/512GB)",
+  "company": "Dell",
+  "category": "Laptop",
+  "features": [
+    "13.4\" 4K Touch",
+    "12th Gen i7",
+    "Thunderbolt 4",
+    "Windows 11 Pro"
+  ],
+  "price": 149990,
+  "rating": 4.8,
+  "description": "Premium ultrabook with near-borderless InfinityEdge display.",
+  "buyFrom": "Dell Store",
+  "link": "https://www.dell.com/en-in/shop/laptops/xps-13/spd/xps-13-9315-laptop",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQBpX481fZ6E3XaRtUngRtWGY0jj_8o17Dg&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:41:05.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477e"
+  },
+  "name": "HP Spectre x360 14 (i7/16GB/1TB)",
+  "company": "HP",
+  "category": "Laptop",
+  "features": [
+    "14\" 3K2K OLED",
+    "360° hinge",
+    "Intel Evo",
+    "16:10 aspect ratio"
+  ],
+  "price": 159990,
+  "rating": 4.8,
+  "description": "Convertible laptop with stunning OLED display.",
+  "buyFrom": "HP Store",
+  "link": "https://www.hp.com/in-en/shop/hp-spectre-x360-14-ef0057tu-8j050pa.html",
+  "image": "https://ehpworld.com/wp-content/uploads/2021/10/HP-Spectre-x360-Convertible-14-ea0077TU-fold.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:40:35.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59477f"
+  },
+  "name": "Lenovo Yoga Slim 7i Pro (i5/16GB/512GB)",
+  "company": "Lenovo",
+  "category": "Laptop",
+  "features": [
+    "14\" 2.8K 90Hz",
+    "12th Gen i5",
+    "Thunderbolt 4",
+    "1.3kg"
+  ],
+  "price": 84990,
+  "rating": 4.6,
+  "description": "Sleek and powerful laptop with high refresh rate display.",
+  "buyFrom": "Lenovo Store",
+  "link": "https://www.lenovo.com/in/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-pro-14ihu7/82qd003kin",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVc9KBFtVdxpVEhntBuM29zL7w3Fm4n9fbA&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:39:47.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594780"
+  },
+  "name": "Asus ROG Zephyrus G14 (Ryzen 9/16GB/1TB)",
+  "company": "Asus",
+  "category": "Laptop",
+  "features": [
+    "RTX 3060",
+    "14\" QHD 120Hz",
+    "AniMe Matrix",
+    "1.7kg"
+  ],
+  "price": 129990,
+  "rating": 4.7,
+  "description": "Compact gaming powerhouse with unique LED lid display.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B09V3HN1KC/",
+  "image": "https://m.media-amazon.com/images/I/71Qxw3J7tQS.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:39:22.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594781"
+  },
+  "name": "Acer Swift 3 (i5/8GB/512GB)",
+  "company": "Acer",
+  "category": "Laptop",
+  "features": [
+    "14\" FHD IPS",
+    "12th Gen i5",
+    "1.2kg",
+    "Fingerprint reader"
+  ],
+  "price": 54990,
+  "rating": 4.4,
+  "description": "Affordable ultrabook with military-grade durability.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/acer-swift-3-core-i5-11th-gen/p/itm6f9d5f5d5d5d5",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/YP/ZG/MM/162122710/acer-swift-3-thin-light-laptop-intel-evo-core-i5-12th-gen-processor-8gb-512gb-windows-11-.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:38:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594782"
+  },
+  "name": "Microsoft Surface Laptop 5 (i7/16GB/512GB)",
+  "company": "Microsoft",
+  "category": "Laptop",
+  "features": [
+    "13.5\" PixelSense",
+    "Touchscreen",
+    "Windows 11 Pro",
+    "Alcantara"
+  ],
+  "price": 134990,
+  "rating": 4.8,
+  "description": "Premium Windows laptop with luxurious keyboard deck.",
+  "buyFrom": "Microsoft Store",
+  "link": "https://www.microsoft.com/en-in/d/surface-laptop-5/8XQGHK1H9XK5",
+  "image": "https://m.media-amazon.com/images/I/61XVMdu1eKL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:38:20.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594783"
+  },
+  "name": "MacBook Pro 14\" M2 Pro (16GB/512GB)",
+  "company": "Apple",
+  "category": "Laptop",
+  "features": [
+    "M2 Pro chip",
+    "Liquid Retina XDR",
+    "ProMotion",
+    "6-speaker"
+  ],
+  "price": 194900,
+  "rating": 4.9,
+  "description": "Professional laptop with stunning XDR display.",
+  "buyFrom": "Apple Store",
+  "link": "https://www.apple.com/in/macbook-pro-14/",
+  "image": "https://images-cdn.ubuy.co.in/65f7a14ff03e52247c7822f0-apple-macbook-pro-14-034-m2-pro.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:37:51.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594784"
+  },
+  "name": "HP Victus 16 (Ryzen 7/16GB/512GB/RTX 3050)",
+  "company": "HP",
+  "category": "Laptop",
+  "features": [
+    "16.1\" 144Hz",
+    "Ryzen 7 5800H",
+    "4-zone RGB",
+    "Mica Silver"
+  ],
+  "price": 74990,
+  "rating": 4.5,
+  "description": "Entry-level gaming laptop with respectable specs.",
+  "buyFrom": "HP Store",
+  "link": "https://www.hp.com/in-en/shop/hp-victus-16-d0352tx-4a0a8pa.html",
+  "image": "https://www.jiomart.com/images/product/original/494267907/hp-victus-16-s0095ax-gaming-laptop-amd-ryzen-7-7840hs-16gb-512-gb-ssd-nvidia-geforce-rtx-3050-graphics-windows-11-home-mso-fhd-40-9-cm-16-1-inch-digital-o494267907-p605403603-1-202310031325.jpeg?im=Resize=(420,420)",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:37:11.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594785"
+  },
+  "name": "Lenovo IdeaPad Gaming 3 (i5/16GB/512GB/RTX 3050)",
+  "company": "Lenovo",
+  "category": "Laptop",
+  "features": [
+    "15.6\" 120Hz",
+    "12th Gen i5",
+    "2.32kg",
+    "Blue backlit"
+  ],
+  "price": 64990,
+  "rating": 4.3,
+  "description": "Budget gaming laptop with solid performance.",
+  "buyFrom": "Lenovo Store",
+  "link": "https://www.lenovo.com/in/en/p/laptops/ideapad/ideapad-gaming/ideapad-gaming-3-15ihu6/82s1000vin",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/computer/b/4/z/-original-imahcyp8qnekzufx.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:36:33.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594786"
+  },
+  "name": "Asus TUF Dash F15 (i7/16GB/1TB/RTX 3060)",
+  "company": "Asus",
+  "category": "Laptop",
+  "features": [
+    "15.6\" 144Hz",
+    "12th Gen i7",
+    "Military grade",
+    "2kg"
+  ],
+  "price": 99990,
+  "rating": 4.6,
+  "description": "Durable gaming laptop with powerful specs.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B09V3HN1KC/",
+  "image": "https://m.media-amazon.com/images/I/81stVUZ+WuL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:36:06.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594787"
+  },
+  "name": "Dell Alienware x14 (i7/16GB/1TB/RTX 3060)",
+  "company": "Dell",
+  "category": "Laptop",
+  "features": [
+    "14\" 144Hz",
+    "12th Gen i7",
+    "AlienFX lighting",
+    "1.8kg"
+  ],
+  "price": 159990,
+  "rating": 4.7,
+  "description": "Ultra-thin gaming laptop from Alienware.",
+  "buyFrom": "Dell Store",
+  "link": "https://www.dell.com/en-in/shop/laptops/alienware-x14/spd/alienware-x14-r1-laptop",
+  "image": "https://m.media-amazon.com/images/I/81Xf075DXLL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:35:07.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594788"
+  },
+  "name": "MSI Katana GF66 (i7/16GB/1TB/RTX 3070)",
+  "company": "MSI",
+  "category": "Laptop",
+  "features": [
+    "15.6\" 144Hz",
+    "12th Gen i7",
+    "Cooler Boost 5",
+    "RGB keyboard"
+  ],
+  "price": 119990,
+  "rating": 4.6,
+  "description": "Powerful gaming laptop with high-end GPU.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B0BT9CXXXZ/",
+  "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/computer/k/w/m/-original-imahcyp7y6jbdgvm.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:35:44.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594789"
+  },
+  "name": "Acer Predator Helios 300 (i7/16GB/1TB/RTX 3070 Ti)",
+  "company": "Acer",
+  "category": "Laptop",
+  "features": [
+    "15.6\" QHD 165Hz",
+    "12th Gen i7",
+    "4-zone RGB",
+    "PredatorSense"
+  ],
+  "price": 139990,
+  "rating": 4.7,
+  "description": "High-performance gaming laptop with QHD display.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/acer-predator-helios-300/p/itm6f9d5f5d5d5d5",
+  "image": "https://m.media-amazon.com/images/I/51GRa2KASyL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:34:28.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478a"
+  },
+  "name": "MacBook Air M1 (8GB/256GB)",
+  "company": "Apple",
+  "category": "Laptop",
+  "features": [
+    "13.3\" Retina",
+    "M1 chip",
+    "18hr battery",
+    "Fanless"
+  ],
+  "price": 79900,
+  "rating": 4.8,
+  "description": "Previous gen MacBook Air with excellent value.",
+  "buyFrom": "Apple Store",
+  "link": "https://www.apple.com/in/macbook-air-m1/",
+  "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:34:00.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478b"
+  },
+  "name": "Lenovo ThinkPad X1 Carbon Gen 10 (i7/16GB/512GB)",
+  "company": "Lenovo",
+  "category": "Laptop",
+  "features": [
+    "14\" WUXGA",
+    "12th Gen i7",
+    "Military tested",
+    "1.12kg"
+  ],
+  "price": 149990,
+  "rating": 4.8,
+  "description": "Business ultrabook with legendary ThinkPad durability.",
+  "buyFrom": "Lenovo Store",
+  "link": "https://www.lenovo.com/in/en/p/laptops/thinkpad/thinkpad-x1/thinkpad-x1-carbon-gen-10/22tp2x1x1g10",
+  "image": "https://microless.com/cdn/products/a591c46192a4da150b032c33dc28ee35-hi.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:33:23.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478c"
+  },
+  "name": "Asus ZenBook 14X OLED (i5/16GB/512GB)",
+  "company": "Asus",
+  "category": "Laptop",
+  "features": [
+    "14\" 2.8K OLED",
+    "12th Gen i5",
+    "NumberPad 2.0",
+    "1.4kg"
+  ],
+  "price": 84990,
+  "rating": 4.6,
+  "description": "Sleek ultrabook with stunning OLED display.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B09V3HN1KC/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2MgYRVrT8Mu3M9jQqdR3cSwNxrjCcOZOIg&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:32:51.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478d"
+  },
+  "name": "HP Envy x360 13 (Ryzen 5/16GB/512GB)",
+  "company": "HP",
+  "category": "Laptop",
+  "features": [
+    "13.3\" FHD Touch",
+    "Ryzen 5 5625U",
+    "360° hinge",
+    "Stylus support"
+  ],
+  "price": 79990,
+  "rating": 4.5,
+  "description": "Versatile convertible laptop with AMD power.",
+  "buyFrom": "HP Store",
+  "link": "https://www.hp.com/in-en/shop/hp-envy-x360-13-bf0056tu-6j967pa.html",
+  "image": "https://m.media-amazon.com/images/I/81DIp5S7RFL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:32:27.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478e"
+  },
+  "name": "Microsoft Surface Pro 9 (i5/8GB/256GB)",
+  "company": "Microsoft",
+  "category": "Laptop",
+  "features": [
+    "13\" PixelSense",
+    "Detachable",
+    "Windows 11",
+    "Slim Pen 2"
+  ],
+  "price": 109990,
+  "rating": 4.7,
+  "description": "Versatile 2-in-1 tablet/laptop hybrid.",
+  "buyFrom": "Microsoft Store",
+  "link": "https://www.microsoft.com/en-in/d/surface-pro-9/93VKGH1H9XK5",
+  "image": "https://m.media-amazon.com/images/I/51SMgQUdi5L._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:31:12.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59478f"
+  },
+  "name": "Acer Chromebook Spin 713 (i5/8GB/256GB)",
+  "company": "Acer",
+  "category": "Laptop",
+  "features": [
+    "13.5\" 2K",
+    "11th Gen i5",
+    "360° hinge",
+    "Chrome OS"
+  ],
+  "price": 54990,
+  "rating": 4.3,
+  "description": "Premium Chromebook with versatile form factor.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/acer-chromebook-spin-713/p/itm6f9d5f5d5d5d5",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2UoIk_5oCJOaZtnBn-Iyea3EtnlYCHIoBvA&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:30:36.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594790"
+  },
+  "name": "LG Gram 16 (i5/16GB/512GB)",
+  "company": "LG",
+  "category": "Laptop",
+  "features": [
+    "16\" WUXGA",
+    "12th Gen i5",
+    "999g",
+    "Military tested"
+  ],
+  "price": 99990,
+  "rating": 4.7,
+  "description": "Incredibly lightweight 16-inch laptop.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/dp/B09V3HN1KC/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdqdHL6Lpw0Lin5S-ptVU54GNPO1zmu6PKQ&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:30:09.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594791"
+  },
+  "name": "Dell Inspiron 14 (i5/8GB/512GB)",
+  "company": "Dell",
+  "category": "Laptop",
+  "features": [
+    "14\" FHD",
+    "12th Gen i5",
+    "1.54kg",
+    "Windows 11"
+  ],
+  "price": 54990,
+  "rating": 4.3,
+  "description": "Mainstream laptop for everyday computing.",
+  "buyFrom": "Dell Store",
+  "link": "https://www.dell.com/en-in/shop/laptops/inspiron-14/spd/inspiron-14-5420-laptop",
+  "image": "https://images-cdn.ubuy.co.in/67033f4a30b74b2462257fd5-dell-inspiron-14-5402-14-inch-fhd-i5.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:29:41.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594792"
+  },
+  "name": "Nike Air Force 1 '07 (White)",
+  "company": "Nike",
+  "category": "Shoes",
+  "features": [
+    "Leather upper",
+    "Air cushioning",
+    "Classic design",
+    "Low-top"
+  ],
+  "price": 7495,
+  "rating": 4.8,
+  "description": "Iconic sneaker with timeless white-on-white colorway.",
+  "buyFrom": "Nike",
+  "link": "https://www.nike.com/in/t/air-force-1-07-shoe-5wj1l7/CW2288-111",
+  "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-force-1-07-shoe-5wj1l7.png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594793"
+  },
+  "name": "Adidas Ultraboost 21",
+  "company": "Adidas",
+  "category": "Shoes",
+  "features": [
+    "Primeknit+ upper",
+    "Boost midsole",
+    "Stretchweb outsole",
+    "Running shoes"
+  ],
+  "price": 16999,
+  "rating": 4.7,
+  "description": "Responsive running shoes with energy-returning cushioning.",
+  "buyFrom": "Adidas",
+  "link": "https://www.adidas.co.in/ultraboost-21-shoes/GY0127.html",
+  "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/13444554/2021/2/22/4a58c1b9-82fe-47ae-a414-b24f3bf809311613987577735-ADIDAS-Men-Sports-Shoes-2701613987577079-1.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:29:15.050Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594794"
+  },
+  "name": "Puma RS-X Reinvention",
+  "company": "Puma",
+  "category": "Shoes",
+  "features": [
+    "Textile upper",
+    "RS cushioning",
+    "Chunky sneaker",
+    "Rubber outsole"
+  ],
+  "price": 8999,
+  "rating": 4.5,
+  "description": "Retro-inspired sneaker with modern comfort technology.",
+  "buyFrom": "Puma",
+  "link": "https://in.puma.com/in/en/pd/rs-x-reinvention-men-s-sneakers/371915.html",
+  "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/371008/04/sv01/fnd/IND/fmt/png/RS-X-Reinvent-Women's-Sneakers",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:28:31.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594795"
+  },
+  "name": "Reebok Nano X1",
+  "company": "Reebok",
+  "category": "Shoes",
+  "features": [
+    "Flexweave upper",
+    "Floatride Energy foam",
+    "Training shoes",
+    "TPU heel clip"
+  ],
+  "price": 11999,
+  "rating": 4.6,
+  "description": "Versatile training shoes for cross-training and gym workouts.",
+  "buyFrom": "Reebok",
+  "link": "https://www.reebok.in/nano-x1-men-training-shoes/GY0284.html",
+  "image": "https://images-cdn.ubuy.qa/647cf4b04dd25a359e5dc48d-reebok-power-rangers-nano-x1-men-s.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:28:00.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594796"
+  },
+  "name": "Skechers Go Walk 5",
+  "company": "Skechers",
+  "category": "Shoes",
+  "features": [
+    "Goga Mat insole",
+    "Lightweight",
+    "Machine washable",
+    "Slip-on design"
+  ],
+  "price": 5495,
+  "rating": 4.4,
+  "description": "Comfortable walking shoes with responsive cushioning.",
+  "buyFrom": "Skechers",
+  "link": "https://www.skechers.in/men/go-walk-5---vigor/232026.html",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:27:21.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594797"
+  },
+  "name": "New Balance 574",
+  "company": "New Balance",
+  "category": "Shoes",
+  "features": [
+    "Suede and mesh upper",
+    "ENCAP midsole",
+    "Classic silhouette",
+    "Rubber outsole"
+  ],
+  "price": 7995,
+  "rating": 4.5,
+  "description": "Iconic lifestyle sneaker with premium materials.",
+  "buyFrom": "New Balance",
+  "link": "https://www.newbalance.in/pd/574-core/ML574EG.html",
+  "image": "https://nb.scene7.com/is/image/NB/ml574eg_nb_02_i",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594798"
+  },
+  "name": "ASICS Gel-Kayano 28",
+  "company": "ASICS",
+  "category": "Shoes",
+  "features": [
+    "FlyteFoam midsole",
+    "Dynamic DuoMax support",
+    "AHAR outsole",
+    "Stability running shoes"
+  ],
+  "price": 15995,
+  "rating": 4.7,
+  "description": "Premium stability running shoes for overpronators.",
+  "buyFrom": "ASICS",
+  "link": "https://www.asics.com/in/en-in/gel-kayano-28/p/1011B458-400.html",
+  "image": "https://upandrunning.co.uk/cdn/shop/articles/U_R-Shopify-Blog-Graphicsfeature-1740X900-px-_header-image_1_cc442f48-a373-47f6-81db-32d90bf02787.jpg?v=1654621493",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:26:58.840Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b594799"
+  },
+  "name": "Under Armour HOVR Phantom 2",
+  "company": "Under Armour",
+  "category": "Shoes",
+  "features": [
+    "HOVR technology",
+    "Compression mesh Energy Web",
+    "Charged cushioning",
+    "Running shoes"
+  ],
+  "price": 12999,
+  "rating": 4.6,
+  "description": "Connected running shoes with UA MapMyRun technology.",
+  "buyFrom": "Under Armour",
+  "link": "https://www.underarmour.in/en-in/ua-hovr-phantom-2-running-shoes/3021974.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxhxuLWCzJyXOxSjruHdZfGw3HIj6R1t5SA&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:26:21.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479a"
+  },
+  "name": "Vans Old Skool",
+  "company": "Vans",
+  "category": "Shoes",
+  "features": [
+    "Canvas upper",
+    "Signature side stripe",
+    "Reinforced toe caps",
+    "Classic skate shoes"
+  ],
+  "price": 5495,
+  "rating": 4.5,
+  "description": "Legendary skate shoes with durable construction.",
+  "buyFrom": "Vans",
+  "link": "https://www.vans.in/shop/old-skool-black-white",
+  "image": "https://5.imimg.com/data5/ANDROID/Default/2023/1/OW/CO/WQ/154736600/product-jpeg.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:25:53.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479b"
+  },
+  "name": "Converse Chuck Taylor All Star",
+  "company": "Converse",
+  "category": "Shoes",
+  "features": [
+    "Canvas upper",
+    "OrthoLite insole",
+    "Iconic ankle patch",
+    "High-top design"
+  ],
+  "price": 4295,
+  "rating": 4.4,
+  "description": "Classic high-top sneakers with timeless design.",
+  "buyFrom": "Converse",
+  "link": "https://www.converse.in/shop/chuck-taylor-all-star",
+  "image": "https://www.converse.in/media/catalog/product/5/6/568497c_01_1.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:25:22.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479c"
+  },
+  "name": "Samsung QN90A Neo QLED 55-inch",
+  "company": "Samsung",
+  "category": "TVs",
+  "features": [
+    "4K resolution",
+    "Neo Quantum Processor",
+    "Quantum HDR 32x",
+    "Object Tracking Sound+"
+  ],
+  "price": 149990,
+  "rating": 4.8,
+  "description": "Premium Neo QLED TV with mini-LED backlight technology.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/tvs/qled-4k-tv/qn55qn90aakxxl/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3zAPFIkKeDZnTsn23mMCjGdaUVfv5lb1YA&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:24:50.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479d"
+  },
+  "name": "LG C1 OLED 65-inch",
+  "company": "LG",
+  "category": "TVs",
+  "features": [
+    "4K OLED",
+    "α9 Gen4 AI Processor",
+    "Dolby Vision IQ",
+    "HDMI 2.1"
+  ],
+  "price": 189990,
+  "rating": 4.9,
+  "description": "Self-lit OLED TV with perfect blacks and infinite contrast.",
+  "buyFrom": "LG",
+  "link": "https://www.lg.com/in/tvs/lg-oled65c1pta",
+  "image": "https://rukminim2.flixcart.com/image/704/844/l071d3k0/television/x/7/s/-original-imagcf7fdvknjpzy.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:24:25.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479e"
+  },
+  "name": "Sony Bravia XR A80J 55-inch",
+  "company": "Sony",
+  "category": "TVs",
+  "features": [
+    "4K OLED",
+    "Cognitive Processor XR",
+    "Acoustic Surface Audio+",
+    "Google TV"
+  ],
+  "price": 159990,
+  "rating": 4.8,
+  "description": "OLED TV with Sony's cognitive intelligence processor.",
+  "buyFrom": "Sony",
+  "link": "https://www.sony.co.in/electronics/televisions/a80j-series",
+  "image": "https://i.rtings.com/assets/products/EAkaMtqv/sony-a80j-oled/design-medium.jpg?format=auto",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:23:30.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b59479f"
+  },
+  "name": "OnePlus U1S 55-inch",
+  "company": "OnePlus",
+  "category": "TVs",
+  "features": [
+    "4K UHD",
+    "Gamma Engine",
+    "Dolby Audio",
+    "Android TV"
+  ],
+  "price": 49999,
+  "rating": 4.5,
+  "description": "Affordable 4K TV with premium design and features.",
+  "buyFrom": "OnePlus",
+  "link": "https://www.oneplus.in/oneplus-tv-u1s",
+  "image": "https://cdn1.smartprix.com/rx-idyNb2eiM-w1200-h1200/dyNb2eiM.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:22:56.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a0"
+  },
+  "name": "Mi QLED TV 75-inch",
+  "company": "Xiaomi",
+  "category": "TVs",
+  "features": [
+    "4K QLED",
+    "PatchWall",
+    "30W speakers",
+    "MEMC technology"
+  ],
+  "price": 89999,
+  "rating": 4.6,
+  "description": "Large-screen QLED TV with quantum dot technology.",
+  "buyFrom": "Mi",
+  "link": "https://www.mi.com/in/mi-tv-qled-75/",
+  "image": "https://i01.appmifile.com/webfile/globalimg/13/03E9DDC5-D29D-0251-1A61-9C406F22382B.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:22:24.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a1"
+  },
+  "name": "Toshiba U7980 65-inch",
+  "company": "Toshiba",
+  "category": "TVs",
+  "features": [
+    "4K UHD",
+    "REGZA Engine",
+    "Dolby Vision",
+    "Fire TV"
+  ],
+  "price": 69990,
+  "rating": 4.4,
+  "description": "Smart TV with Fire TV built-in and HDR10+ support.",
+  "buyFrom": "Amazon",
+  "link": "https://www.amazon.in/Toshiba-inches-U7980-Android-65U7980/dp/B08L5V5V5V",
+  "image": "https://i.gadgets360cdn.com/products/large/toshiba-55u7980-db-800x450-1600327345.jpg?downsize=*:360",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:20:43.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a2"
+  },
+  "name": "Vu Masterpiece 65-inch",
+  "company": "Vu",
+  "category": "TVs",
+  "features": [
+    "4K OLED",
+    "Cortex A73 processor",
+    "Dolby Vision",
+    "Google Assistant"
+  ],
+  "price": 119999,
+  "rating": 4.5,
+  "description": "Premium OLED TV with theater-like experience.",
+  "buyFrom": "Vu",
+  "link": "https://www.vutvs.com/product/vu-masterpiece-164-4cm-65-inch-oled-tv/",
+  "image": "https://m.media-amazon.com/images/I/71kUEPbeszL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:20:03.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a3"
+  },
+  "name": "Samsung The Frame 50-inch",
+  "company": "Samsung",
+  "category": "TVs",
+  "features": [
+    "4K QLED",
+    "Art Mode",
+    "Quantum Processor",
+    "Customizable bezels"
+  ],
+  "price": 99990,
+  "rating": 4.7,
+  "description": "Lifestyle TV that transforms into art when not in use.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/lifestyle-tvs/the-frame/qa50ls01aakxxl/",
+  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-the-frame-ls03b-532707372",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:19:35.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a4"
+  },
+  "name": "LG NanoCell 75-inch",
+  "company": "LG",
+  "category": "TVs",
+  "features": [
+    "4K NanoCell",
+    "α7 Gen4 Processor",
+    "Filmmaker Mode",
+    "AI Sound Pro"
+  ],
+  "price": 129990,
+  "rating": 4.6,
+  "description": "NanoColor technology with IPS panel for wide viewing angles.",
+  "buyFrom": "LG",
+  "link": "https://www.lg.com/in/tvs/lg-75nano80tpa",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmayGvYJv-LiZuqm2S3p1BS2I-b7jbpntwgQ&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:18:24.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a5"
+  },
+  "name": "Sony X80J 43-inch",
+  "company": "Sony",
+  "category": "TVs",
+  "features": [
+    "4K HDR",
+    "X1 Processor",
+    "TRILUMINOS Display",
+    "Google TV"
+  ],
+  "price": 59990,
+  "rating": 4.5,
+  "description": "Smart TV with Sony's picture processing technology.",
+  "buyFrom": "Sony",
+  "link": "https://www.sony.co.in/electronics/televisions/x80j-series",
+  "image": "https://i.rtings.com/assets/products/8YA92Pgr/sony-x80j/design-medium.jpg?format=auto",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:18:03.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a6"
+  },
+  "name": "Voltas 1.5 Ton 3 Star Split AC",
+  "company": "Voltas",
+  "category": "ACs",
+  "features": [
+    "Copper condenser",
+    "Adjustable cooling",
+    "Anti-dust filter",
+    "Auto Restart"
+  ],
+  "price": 34990,
+  "rating": 4.3,
+  "description": "Energy efficient split AC with tropical inverter compressor.",
+  "buyFrom": "Voltas",
+  "link": "https://www.voltas.com/air-conditioners/inverter-ac/1-5-ton-3-star-split-ac-183vcz.html",
+  "image": "https://m.media-amazon.com/images/I/41TuyxwZ9mL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:17:39.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a7"
+  },
+  "name": "LG 1.5 Ton 5 Star Inverter Split AC",
+  "company": "LG",
+  "category": "ACs",
+  "features": [
+    "Dual Inverter Compressor",
+    "Ocean Black Protection",
+    "4-in-1 Convertible",
+    "Smart Diagnosis"
+  ],
+  "price": 44990,
+  "rating": 4.6,
+  "description": "Energy efficient AC with AI Convertible 6-in-1 cooling.",
+  "buyFrom": "LG",
+  "link": "https://www.lg.com/in/air-conditioners/lg-rs-q19ynze",
+  "image": "https://m.media-amazon.com/images/I/81whf1SRLJL._UF350,350_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:16:53.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a8"
+  },
+  "name": "Daikin 1.5 Ton 3 Star Split AC",
+  "company": "Daikin",
+  "category": "ACs",
+  "features": [
+    "Copper condenser",
+    "Powerful cooling",
+    "Econo Mode",
+    "Neo Swing Compressor"
+  ],
+  "price": 37990,
+  "rating": 4.5,
+  "description": "Split AC with PM 2.5 filter and stabilizer-free operation.",
+  "buyFrom": "Daikin",
+  "link": "https://www.daikinindia.com/product-detail/1-5-ton-3-star-split-ac",
+  "image": "https://api.cphwpfzsns-daikinair1-p1-public.model-t.cc.commerce.ondemand.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzM4NzYzfGltYWdlL3BuZ3xhR0ppTDJoa01pODVOek13TWpnMk1qZzRPVEkyfDU4YjNiZDQxYTg1NjljMDc4ZTgyZGQ3N2FkODIzZmIyZjg0ZTYwMzYwYjk1NTExMzRmMTU4NjM0ZjcyMWI5ZDA",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:16:24.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947a9"
+  },
+  "name": "Blue Star 1 Ton 5 Star Inverter Split AC",
+  "company": "Blue Star",
+  "category": "ACs",
+  "features": [
+    "R32 refrigerant",
+    "Turbo Cool",
+    "Self Clean",
+    "Copper condenser"
+  ],
+  "price": 38990,
+  "rating": 4.4,
+  "description": "Energy efficient inverter AC with tropicalized compressor.",
+  "buyFrom": "Blue Star",
+  "link": "https://www.bluestarindia.com/air-conditioners/split-ac/1-ton-5-star-inverter-split-ac.html",
+  "image": "https://consumer.bluestarindia.com/cdn/shop/files/ic512dnur_gallery-images-01_3_16.png?v=1721418042",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:15:37.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947aa"
+  },
+  "name": "Carrier 1.5 Ton 3 Star Split AC",
+  "company": "Carrier",
+  "category": "ACs",
+  "features": [
+    "Flexicool inverter",
+    "Hi-Groove condenser",
+    "Auto clean",
+    "R32 refrigerant"
+  ],
+  "price": 36990,
+  "rating": 4.3,
+  "description": "Split AC with eco-friendly refrigerant and dust filter.",
+  "buyFrom": "Carrier",
+  "link": "https://www.carrieraircon.co.in/products/split-ac/1-5-ton-3-star-split-ac.html",
+  "image": "https://cmiestore.com/media/catalog/product/cache/1b3b294ed23777abb32b4835431a784d/i/m/img11_1.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:15:13.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ab"
+  },
+  "name": "Hitachi 1.5 Ton 5 Star Inverter Split AC",
+  "company": "Hitachi",
+  "category": "ACs",
+  "features": [
+    "Kaze Filter",
+    "Eco Mode",
+    "Auto Cleanser",
+    "Copper condenser"
+  ],
+  "price": 45990,
+  "rating": 4.5,
+  "description": "Premium inverter AC with Japanese technology.",
+  "buyFrom": "Hitachi",
+  "link": "https://www.hitachiaircon.com/in/residential/split-ac/1-5-ton-5-star-inverter-split-ac.html",
+  "image": "https://m.media-amazon.com/images/I/510xASFjJgL._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:14:51.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ac"
+  },
+  "name": "Samsung 1.5 Ton 5 Star Inverter Split AC",
+  "company": "Samsung",
+  "category": "ACs",
+  "features": [
+    "Digital Inverter",
+    "Triple Protection Plus",
+    "Durafin",
+    "Auto Clean"
+  ],
+  "price": 42990,
+  "rating": 4.4,
+  "description": "Smart inverter AC with 8-in-1 convertible cooling.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/air-conditioners/split-ac/ar18t5zqbtgnna/",
+  "image": "https://darlingretail.com/cdn/shop/files/1_b7dd8133-763a-4845-847c-aa9e2d493b79_1024x.jpg?v=1753445119",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:14:15.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ad"
+  },
+  "name": "Lloyd 1.5 Ton 3 Star Inverter Split AC",
+  "company": "Lloyd",
+  "category": "ACs",
+  "features": [
+    "R32 refrigerant",
+    "Golden Fin Evaporator",
+    "Self Diagnosis",
+    "Copper condenser"
+  ],
+  "price": 33990,
+  "rating": 4.2,
+  "description": "Affordable inverter AC with tropicalized compressor.",
+  "buyFrom": "Lloyd",
+  "link": "https://www.lloydac.com/product/1-5-ton-3-star-inverter-split-ac/",
+  "image": "https://sharptronics.in/cdn/shop/products/GLS12B32MX_GLS18B32MX1_1.jpg?v=1613635374",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:13:40.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ae"
+  },
+  "name": "Whirlpool 1 Ton 5 Star Inverter Split AC",
+  "company": "Whirlpool",
+  "category": "ACs",
+  "features": [
+    "6th Sense FastCool",
+    "Intelligent Cooling",
+    "Copper condenser",
+    "R32 refrigerant"
+  ],
+  "price": 37990,
+  "rating": 4.3,
+  "description": "Energy efficient inverter AC with advanced cooling technology.",
+  "buyFrom": "Whirlpool",
+  "link": "https://www.whirlpoolindia.com/air-conditioners/split-ac/1-ton-5-star-inverter-split-ac.html",
+  "image": "https://rukminim2.flixcart.com/image/704/844/kksmikw0/air-conditioner-new/r/r/a/1-5t-magicool-pro-5s-copr-inv-split-inverter-whirlpool-original-imagy25uywcpztff.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:13:08.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947af"
+  },
+  "name": "Godrej 1.5 Ton 3 Star Inverter Split AC",
+  "company": "Godrej",
+  "category": "ACs",
+  "features": [
+    "R32 refrigerant",
+    "Copper condenser",
+    "Turbo Cool",
+    "Self Clean"
+  ],
+  "price": 35990,
+  "rating": 4.2,
+  "description": "Inverter AC with eco-friendly refrigerant and dust filter.",
+  "buyFrom": "Godrej",
+  "link": "https://www.godrejappliances.com/air-conditioners/split-ac/1-5-ton-3-star-inverter-split-ac.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiImQgRyGqXrNFU9v2C15j-8Egi-oRetMirg&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:12:35.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b0"
+  },
+  "name": "Apple AirPods Pro",
+  "company": "Apple",
+  "category": "EarPods",
+  "features": [
+    "Active Noise Cancellation",
+    "Transparency mode",
+    "Spatial audio",
+    "Sweat and water resistant"
+  ],
+  "price": 24900,
+  "rating": 4.8,
+  "description": "Premium wireless earbuds with adaptive EQ and force sensor controls.",
+  "buyFrom": "Apple",
+  "link": "https://www.apple.com/in/airpods-pro/",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPERASEBIQDxAXEBAQEBAPFRAPEBASFRIWFxUVFRcYHyghGBslGxUVIjEhJSkrMDAuFx8zODMsQygtLiwBCgoKDQwKGgkPGjgcHx43Ky44ODI3KysrMiwrNTc4KzQsOCsuOCs1OCs4NjcwNzQtODcrKystODMrKysrNysrMv/AABEIAKMBNgMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABQEDBAYHCAL/xABLEAACAQMABgYECAgNBQAAAAAAAQIDBBEFBhITITEHIkFRYXEUMoGRFVJTkqGx0dIjNUJUYnWj8BdDY3JzgpOisrO0wdMWJCUzdP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwDhoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZlhoq4uM7ihWr457mnOrjz2UwMMGXf6MuLdpV6Nag3yVaE6TfkpJZMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFy2oTqzjTpxlOpKShCEE5SlJvCSS5tsydEaKr3lWNG3pyq1ZZxGOFwXNtvhFLvbSO39GWpNPRNWVzdTpV7rY2aKp5cLfOVNqUvWk00s4WFtc8gfeovRBbWsI19KqNevjaVtlOhR7lPH/ALJf3efrczfqun6FCKhSjGEIrEYU0oQiu5JcjU9bdYZwliXBPLi1ya8DlWtmsdw9mNFyUZZ25QzteSf5PmB3K41jtrmMqVxTp1qUuE4VFGcX5p9pw3pS1Jp6OnC4tG52NZtQy3KVCrxbpSb5rHGLfHCafLLi9BXU6DlJyw5JLZTz25y/H7Td7m7d5ojSFOfKFKnXg3+TOnVhy805L+sByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADo3Rv0YT0lFXN1OVtZZai4431w08PY2uEYp56zT4rCXNrSdAaO9Lura3Ta3telSclxcVOaTl7E2/Ydu1i1pjRaoUcU6NOKpUoR4KMILEUvYgJ6h0cavxjs+iqfY5TrXDk/HKmsezBCaw9CVjXi5aPqztauOrTqydahLwy+vHzzLyOfx6Q7qlWlvEpQ2n1F1ZKOeDi+3h38/A6Jq/rmpxhOMnsySaz/ugOIay6t3ejazo3dJ058XGXOnVj8aEuUl9XbjkRJ6u0vZWmmrSVC5SXDNOqsbdGfZOD+tdq4HCavRNppSkoW0asVJpThXtdmaT4SWZp4fPikwNHBu38E+nPzP9vaf8g/gn05+Z/t7T/kAlNSNJ0dG2W8STuLiUpSnmMdijCbhCGW+blGcuHPh3Izpa3tvm14Pg0a/prU7SNpaU/S7d0Yxm6cZbdKrF5cpr1JPDzKfPwNejSqSpp8cwlu2+9NZj7VhrywB0O70rG7pSpyfFrMJfFn2P9+w51VuJ5aeU02mu5p4aJ3V2yqznFcXxRMU9VnXuaigm1vJcUuHPi/fkDVtGWFSrJJJvLNy1ylHRmjPRG/8AurrdynBPjTtoTUsy7tqcUl3qMu42y40RPRFtvrayq6QuXHNPdwdSjTfxpqPWaXdFccc1zOG6a0hXua9WrcylOvKT3jmsNNcNnH5KWMJdmMAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6N0L6pVbu7hduW6t7arGTnjLq1VhqnH2PLfYmu8+ukDR1W3uaqknjabT70dj1K0dGxsbWhHCcaUZVPGrNbdR++XDwNM1p1isr28uLK5UaO7cadC7b6jmorbhVf5KUm0pcuDTxwA47VrKXCa2l49hO6u3MqlSnSp4iu/shFc3+/aXNY9V5283Fry8V2Mt6u2c6UK9VJ56lPPcuLfv4e4Do0tY4UIqnTfBdr5t978S9o3XVQkm5Y83wOQ6Q0hUTfMtTu6kXGMeE8KU3hNrKyorPLg02/HHZxD0voPWyjc1qls8U7iMI1oRzmNehLlUpvweU49jXauJP7Z5ujc1qFeyuo5U6Kpvh2x3tSTj5ONRrykdc6TdJzpaOr7ptSqOFBSXNRqPr48XBSXtA1HpA6T1W3tpZU6VWi+pUuay3kajT47mHLCeMTefBcm9KoaYoyjFVqdTK5bDUo+LSk01735mDR0XPHBCdpKPNATmjNYFG4toUKWxCVzbxqSqbMpSpurFTio8llZWcvn2cz41ku6kb2dJVJqkqrSpqUlTxtfF5EbommvSLf/6KH+ZEy9Z/xjP+mf8AiA6HpfpAq6Lu7SjOKq2crC2nUilirTlKdVSnB/lcIrqvnjhg2TWzVGw03QU3sKpKnGVve0knNJrMG+W8hx9V97xh8TlPSpHN1a/qy0/zKxunQxpp1LOpbzeZUKnUzz3NTMor2SVReWAOG6waFr2FxVtriOzVg8PHGMk+MZxfbFrDXn2Ecdp6ftHQlStLtJKcajtZvtlGUXUhl+GzP5xxYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD09oTTUa1GlOL4TpUqi/rQWV7MHDalKdWdScvXlUqTl/OlJt/Syc6OtPN0vR8/hae1KlF86tJ9acV3uLy8d3HHVZKVLKnKrKdPlJuUoPnGT4vHes9wFb26nb6I0fmMJvN1Fqos9VXFTZSaaawmksMv6q28KlndVtlxTdGEqUevlueFJN4xhSlw7Rr7BR0fYxXfXf7WRm9HGPQq+1y26X1sDXL/VGVR5gk0+4y7LUvaqbyolBcHJZztPwXZk3J3MFwjxfhxL2+qSWIQUP0pcZezOAIOroaFSpCGOG0trwiuf0Gy6z2/pVtOmuMsxnBfpRece1ZXtLFvauGcOOXzcm3J/QXdifxoe+X2Aato7RkZRPu80JFrkT0racZOcHFSfrJNOMvNPB81q8scaeH2uOcAaXb6BauKGOW/o5/tIkJrPH/yE3/Kv/EdJp14bSfBSTTXmnlGvXup0a91KvK6qQpubnuo06c5rLzsxm8cPNN+L5gYnSPayncWsly+DrZe6db7S30ZzlRvZpcIyt57S7MqcGn9fvNi1j2asouMWoxpwpU1LDlswzjafe22/aReiYqi5bvEq01hyWNmnBcXxfDxb5LHHlxC30zaUUrSlSytqV1tpfo06coy+maOOmwa66aV3cdR7VGmt3TfHE+PWms8cN8s8cJZNfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcoUZ1JRhTjKc5SjCEIJylOUniMYpcW22lgtk5qJ+M9GfrCz/ANRAB/0xpSi4z9Cv6Uk1KM9xcU3GS4pp7PBk+9O3U4pV6E6Vdc6ro1N1V4fxkEk4S/SjlcfVPQGuL6n79xxXTsuswPjTmklX0fYxbgqsfSd5TjLalD8PPZynxWVhrPYy7o3S0LbRtxhxnV3tBxoqajUktp7TS5vHPka5ULYE/R6QZRjGLtK2VFJ9drLSw36pj3+uVzcbO53tls7W1nZq7zOMetHhjD95GKvJdq9qi/rRX0mXh82H2AZPw/f/AJ5U+ZT+4Ph+/wDzyfzKX3DG9Jl4fNh9g9Jn4fNh9gGS9P3/AOeT+ZT+4SNvr9UpxjCdvWrTisSqqewqj+NhR4EL6TLvXzYfYPSZeHzYfYBKX2vU6uMWlZYzl7bef7phvW+r2W1b+0kvqiYs6rlz+hJfUfCAy/8AqG4qfxW7XbKe9ry/qxSWX54XiW9K6Rv7mDo21tcwotJTcac5Vq+PjuK4R/QXDvyVt3xN41Ul1kBym61Y0hSpyq1bO8p0orMqtShWhTis4y5OOFzREnqnpEa+A77LwvR4+/bhj6cHlYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE7qJ+NNGfrCz/wBRAgid1E/GmjP1hZ/6iAHpzXP1P37ji2nPWZ2jXP1P37ji2nPWYEBM+D7mfIFChUAULk6WFF5i9pNpJptYbXWXZyPgYCbVAVAUAKgXrfmbtqr6yNJt+Zu2qvrIDeekqlt6BvVnH4KjL5tanLH0Hlw9RdJVJz0DeqPPdUZeyNanKX0Jnl0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE3qPLGk9Gt9l/Zv3V4EIZGj7p0KtKrHjKnUhUj5wkpL6gPVuusup7/qOLabl1mdi1yrKpSjOD2oyUZxa5OMo5T+lHF9NS6zAiJsoW5TG2BcBb2xtgXAW9sbYFwFvbG2BcKHxtlHMDKoPibnqtPrI0ajPiblqvLrIDovSFV2dBXz/kIR+dUhH/c8tnovphv1R0JOm/WrVrejFfzZb1v9n9KPOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdujzTy0hov0aTzc2sFTafOVH+KkvBJbD7tld6NO1gjiTNL0DpqvYV4V7eWzOPNPjCcX60Jrti+73YaTOgXmkLfSkN5bdStjNa0k/wkJdrpfKw8uK7UgNNq1cM+N+VvLeSb4GLuWBk78b8xt0xumBk78b8xt0xumBk78b8xt0xumBk78b8xt0yqpMCRtZ5Z0HUu2c6kF4pvyRouhLCdSSUYt/7LvfcvEntLa507GjK3sZqpczi41bqDzToLtjRf5U/01wXZnmgtdNOsiurqFrSe1RtVKEmnlTryxvHz4qOIx84y7znQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArFtcVwfNNdhQAZ60zcflTdT+kSm35yfH6S4tMz+JSfsl94jABJ/DUvk6Xun94fDUvk6Xun94jABJ/DUvk6Pun94fDUvk6Xun94jABJ/DU/k6Xun94fDU/k6Xun94jABJ/DM/k6Xun94pLTFTsjTj4qLf1tkaAMu40lWqR2ZVJOHbBdWDxyzFcGYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:12:05.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b1"
+  },
+  "name": "Sony WF-1000XM4",
+  "company": "Sony",
+  "category": "EarPods",
+  "features": [
+    "Industry-leading ANC",
+    "LDAC support",
+    "IPX4 water resistance",
+    "24-bit audio"
+  ],
+  "price": 19990,
+  "rating": 4.7,
+  "description": "True wireless earbuds with exceptional noise cancellation.",
+  "buyFrom": "Sony",
+  "link": "https://www.sony.co.in/electronics/truly-wireless/wf-1000xm4",
+  "image": "https://i.rtings.com/assets/products/9032v8gK/sony-wf-1000xm4-truly-wireless/design-medium.jpg?format=auto",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:11:41.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b2"
+  },
+  "name": "Bose QuietComfort Earbuds",
+  "company": "Bose",
+  "category": "EarPods",
+  "features": [
+    "Noise cancelling",
+    "Volume-optimized EQ",
+    "IPX4 rating",
+    "Touch controls"
+  ],
+  "price": 27900,
+  "rating": 4.6,
+  "description": "Premium wireless earbuds with world-class noise cancellation.",
+  "buyFrom": "Bose",
+  "link": "https://www.boseindia.com/en_in/products/headphones/earbuds/quietcomfort-earbuds.html",
+  "image": "https://m.media-amazon.com/images/I/61qIEvCy6+L.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:10:59.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b3"
+  },
+  "name": "Jabra Elite 85t",
+  "company": "Jabra",
+  "category": "EarPods",
+  "features": [
+    "Adjustable ANC",
+    "12mm speakers",
+    "6-mic call technology",
+    "IPX4 rating"
+  ],
+  "price": 17999,
+  "rating": 4.5,
+  "description": "True wireless earbuds with semi-open design for comfort.",
+  "buyFrom": "Jabra",
+  "link": "https://www.jabra.in/elite-85t",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:10:30.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b4"
+  },
+  "name": "Samsung Galaxy Buds Pro",
+  "company": "Samsung",
+  "category": "EarPods",
+  "features": [
+    "Intelligent ANC",
+    "AKG-tuned sound",
+    "IPX7 water resistance",
+    "Bixby voice wake-up"
+  ],
+  "price": 15990,
+  "rating": 4.6,
+  "description": "Wireless earbuds with smart ambient sound and 360 audio.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/audio-device/galaxy-buds-pro/",
+  "image": "https://www.unboxify.in/cdn/shop/products/61Qqg_T8nsL._SL1500_ae2b6ac3-0190-4e49-832f-36cd48920e92.jpg?v=1694963388",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:10:08.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b5"
+  },
+  "name": "OnePlus Buds Pro",
+  "company": "OnePlus",
+  "category": "EarPods",
+  "features": [
+    "Smart Adaptive Noise Cancellation",
+    "Dolby Atmos",
+    "Warp Charge",
+    "IP55 rating"
+  ],
+  "price": 9999,
+  "rating": 4.4,
+  "description": "Premium wireless earbuds with 40dB active noise cancellation.",
+  "buyFrom": "OnePlus",
+  "link": "https://www.oneplus.in/oneplus-buds-pro",
+  "image": "https://m.media-amazon.com/images/I/61dVOVxHn3L.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:09:41.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b6"
+  },
+  "name": "Realme Buds Air 2",
+  "company": "Realme",
+  "category": "EarPods",
+  "features": [
+    "Active Noise Cancellation",
+    "10mm drivers",
+    "88ms low latency",
+    "IPX5 rating"
+  ],
+  "price": 3999,
+  "rating": 4.3,
+  "description": "Affordable wireless earbuds with ANC and transparency mode.",
+  "buyFrom": "Realme",
+  "link": "https://www.realme.com/in/realme-buds-air-2",
+  "image": "https://cdnmedia.placewellretail.com/pub/media/catalog/product/cache/d2f155c8ae3423b25125c336aa39579e/u/n/untitled-6_137.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:09:14.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b7"
+  },
+  "name": "Oppo Enco X",
+  "company": "Oppo",
+  "category": "EarPods",
+  "features": [
+    "Co-created with Dynaudio",
+    "Active Noise Cancellation",
+    "Bluetooth 5.2",
+    "IP54 rating"
+  ],
+  "price": 9990,
+  "rating": 4.5,
+  "description": "Premium wireless earbuds with DBEE 3.0 sound system.",
+  "buyFrom": "Oppo",
+  "link": "https://www.oppo.com/in/accessories/enco-x/",
+  "image": "https://m.media-amazon.com/images/I/51DSkoFwD+L._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:08:43.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b8"
+  },
+  "name": "Boat Airdopes 441 Pro",
+  "company": "Boat",
+  "category": "EarPods",
+  "features": [
+    "Quad mics",
+    "IPX7 waterproof",
+    "Type-C charging",
+    "30hrs playback"
+  ],
+  "price": 2999,
+  "rating": 4.2,
+  "description": "Affordable truly wireless earbuds with premium sound.",
+  "buyFrom": "Boat",
+  "link": "https://www.boat-lifestyle.com/products/airdopes-441-pro",
+  "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/441pro.jpg?v=1688452927",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:08:15.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947b9"
+  },
+  "name": "Noise ColorFit Pro 3",
+  "company": "Noise",
+  "category": "EarPods",
+  "features": [
+    "Bluetooth 5.0",
+    "IPX5 rating",
+    "Touch controls",
+    "30hrs playback"
+  ],
+  "price": 2999,
+  "rating": 4.1,
+  "description": "Budget wireless earbuds with premium design and sound.",
+  "buyFrom": "Noise",
+  "link": "https://www.gonoise.com/products/colorfit-pro-3",
+  "image": "https://rukminim2.flixcart.com/image/300/300/knrsjgw0/smartwatch/5/n/y/wrb-sw-colorfitpro3-std-blk-blk-android-ios-noise-original-imag2drhhygt3ggz.jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:07:32.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ba"
+  },
+  "name": "Apple Watch Series 7",
+  "company": "Apple",
+  "category": "Watches",
+  "features": [
+    "Always-on Retina display",
+    "Blood oxygen sensor",
+    "ECG app",
+    "Water resistant 50m"
+  ],
+  "price": 41900,
+  "rating": 4.8,
+  "description": "Advanced smartwatch with health monitoring features.",
+  "buyFrom": "Apple",
+  "link": "https://www.apple.com/in/apple-watch-series-7/",
+  "image": "https://m.media-amazon.com/images/I/71-i7pbrhnL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:07:00.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947bb"
+  },
+  "name": "Samsung Galaxy Watch 4 Classic",
+  "company": "Samsung",
+  "category": "Watches",
+  "features": [
+    "Wear OS Powered by Samsung",
+    "BioActive Sensor",
+    "Rotating bezel",
+    "Military durability"
+  ],
+  "price": 34990,
+  "rating": 4.7,
+  "description": "Premium smartwatch with body composition measurement.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/wearables/galaxy-watch4/",
+  "image": "https://sell.gameloot.in/wp-content/uploads/sites/4/2022/05/Samsung-Galaxy-Watch-4-Classic-LTE-42mm.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:06:31.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947bc"
+  },
+  "name": "Fitbit Sense",
+  "company": "Fitbit",
+  "category": "Watches",
+  "features": [
+    "Stress management",
+    "ECG app",
+    "Skin temperature sensor",
+    "6+ day battery"
+  ],
+  "price": 29990,
+  "rating": 4.5,
+  "description": "Advanced health smartwatch with stress tracking.",
+  "buyFrom": "Fitbit",
+  "link": "https://www.fitbit.com/global/in/products/smartwatches/sense",
+  "image": "https://m.media-amazon.com/images/I/51JNsCR32BL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:06:01.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947bd"
+  },
+  "name": "Garmin Venu 2",
+  "company": "Garmin",
+  "category": "Watches",
+  "features": [
+    "AMOLED display",
+    "Advanced sleep monitoring",
+    "Body Battery energy",
+    "Up to 11-day battery"
+  ],
+  "price": 36990,
+  "rating": 4.6,
+  "description": "GPS smartwatch with health monitoring and fitness features.",
+  "buyFrom": "Garmin",
+  "link": "https://www.garmin.com/en-IN/p/731535",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:05:31.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947be"
+  },
+  "name": "Fossil Gen 6",
+  "company": "Fossil",
+  "category": "Watches",
+  "features": [
+    "Wear OS",
+    "Snapdragon Wear 4100+",
+    "SpO2 sensor",
+    "Fast charging"
+  ],
+  "price": 24995,
+  "rating": 4.4,
+  "description": "Premium smartwatch with classic design and modern tech.",
+  "buyFrom": "Fossil",
+  "link": "https://www.fossil.com/en-in/products/gen-6-smartwatch/",
+  "image": "https://imagescdn.thecollective.in/img/app/product/6/664543-6893471.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:05:04.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947bf"
+  },
+  "name": "Amazfit GTR 3 Pro",
+  "company": "Amazfit",
+  "category": "Watches",
+  "features": [
+    "1.45\" AMOLED",
+    "Bluetooth calling",
+    "150+ sports modes",
+    "12-day battery"
+  ],
+  "price": 17999,
+  "rating": 4.3,
+  "description": "Feature-packed smartwatch with premium design.",
+  "buyFrom": "Amazfit",
+  "link": "https://www.amazfit.com/in/gtr3pro.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlevUlmsHeEuZPUcXiAvDXzLKCeAF1X_daHA&s",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:04:26.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c0"
+  },
+  "name": "OnePlus Watch",
+  "company": "OnePlus",
+  "category": "Watches",
+  "features": [
+    "1.39\" AMOLED",
+    "110+ workout modes",
+    "SpO2 monitoring",
+    "14-day battery"
+  ],
+  "price": 14999,
+  "rating": 4.2,
+  "description": "Sleek smartwatch with fitness and health tracking.",
+  "buyFrom": "OnePlus",
+  "link": "https://www.oneplus.in/oneplus-watch",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVzVy7YKnEk_mz_7iozS9lp9sJxKeYDLejYH6KaeFOgxgz45TwGiPp5E25hNDqObr9z0&usqp=CAU",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:04:01.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c1"
+  },
+  "name": "Realme Watch 2 Pro",
+  "company": "Realme",
+  "category": "Watches",
+  "features": [
+    "1.75\" display",
+    "SpO2 monitor",
+    "90 sports modes",
+    "14-day battery"
+  ],
+  "price": 4999,
+  "rating": 4.1,
+  "description": "Affordable smartwatch with essential health features.",
+  "buyFrom": "Realme",
+  "link": "https://www.realme.com/in/realme-watch-2-pro",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:03:23.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c2"
+  },
+  "name": "Noise ColorFit Pro 3",
+  "company": "Noise",
+  "category": "Watches",
+  "features": [
+    "1.55\" display",
+    "SpO2 monitoring",
+    "100+ watch faces",
+    "10-day battery"
+  ],
+  "price": 3999,
+  "rating": 4,
+  "description": "Budget smartwatch with health and fitness tracking.",
+  "buyFrom": "Noise",
+  "link": "https://www.gonoise.com/products/colorfit-pro-3",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:02:37.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c3"
+  },
+  "name": "Boat Storm",
+  "company": "Boat",
+  "category": "Watches",
+  "features": [
+    "1.69\" display",
+    "HR monitoring",
+    "Multiple sports modes",
+    "10-day battery"
+  ],
+  "price": 3499,
+  "rating": 3.9,
+  "description": "Affordable smartwatch with basic fitness features.",
+  "buyFrom": "Boat",
+  "link": "https://www.boat-lifestyle.com/products/storm",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBISExITFRIVFhYVEBUXEhIXEhcWFhIWFhcVFRYYHSggGhoxGxgVITIhJSorLi4uFx8zODMtNygtMSsBCgoKDg0OFxAQFS4dHR0tKzctLS0tLSsrMi0rNSsrMDctLS0tMC0xNystNi0tKy0tKystNzc3NzctKy0xLSs3K//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAACAMEBQYHAgH/xABJEAABAwIDAwgECgcHBQEAAAABAAIDBBEFEiEGMUEHEyIyUWFxgSORobEUM0JSYnJzorLBCCQ0gpKz8BdDU2PCw+FUo9HS0xX/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAAgEQEBAAICAwADAQAAAAAAAAAAAQIRAxIhMUFRobFh/9oADAMBAAIRAxEAPwDuKIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIipzzsYMz3Na0by5wA9ZQVEWCm2yw5psa2nv3StPuVem2lo5OpURO8HaetBlkVOGdjxdrmuHa0gj2KogIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiArDGsYgpIjNUSNjjHE7yfmtaNXO7hqrDbHaqDDqcyy9Jx6MMQPTkdbcOwdruHjYGPOP45UV8xnqX3O6Ngvzcbfmsb+e821Vk2lrdtpuV2olJZRM5mPUc68B0zu9rdWs883kudYhUzTuzTyyTP7Xvc8jwzGw8AqjIr9w7P/KrtiC6TUZYz4MUZC5pu02PaLtPrbZZXm05m6uxc4RtbUQkZy57fnA2lb3hw3+9dCw3bapDA+KYTR/NkGY+GYWdfxK5o6j0ubAL5MKmhmbeN8bZW58skbgHNJIzBhLSTcHiPaL5uljteH8pUR0nhcw/OYQ9viQbEe1bThm0NLUWEU7HOO5pOV/8AA6x9ij2cSjc5oa/M59soEb2kki4Abc69wJ3K4nzs+MY9nZmY5vquFNSm0j0XEcA27qacgF/OxcWPJJt9F+8e0dy6ts3tJBWszROs8fGRusHt8RxHeNFmzSyswiIooiIgIiICIiAiIgIiICIiAiIgLmPKhynfAnfBKTK+rPxj3axwAi+o+U+2ttw433LY9uNs4KKhnmZLE+ZoyRMD2OJkcbNu0HcOse5pUXOdc4uke4ukkJe9x1cbuuST2k3J8lZEZaqxCWokMs8j5Xn5Tzd1vyHcNAqkZViw2CqNlWkZNj1Va9Y1sqqsmVGTZqsxs9gk1ZLzVO0G1udkd8XGDxceJ7GjU+FyLLZTBZa+obBFoOtLJa7Y2cXHtPADifMiQ2B4PDSQNghblY3eflOdxe88XHt/JS3RIxOzGxVNR2cBzs/GZ4BcO6Nu5g8Ne0lc75a6Fjq+GR84a34OGlg1eCJZDcDcL5rX+gu0qMm1c7qvE6mVxJBle1mugZHdrAP3Wg+JKw027ZTazDaL0cQy2FnzOF5JDvcS7eG3Js0aW8Vj9p+V57nFlPDEWjQmQPcfW17RftFiB2lcoMpIv2j3qjmQbydsoZD6ajYDxdE7KfUdfvK8wzGoGSNlp6l8MrTducW8idxHaCTdc6Dl6Eiu6aSr2Y24gqI288+OKbc7peid9JjjoB3E3HfvW2McCAQQQdxBuFDCnrXsN2uc09xIWyYFt3WUpBjlcBxAPRP1mHon1KCViLSeTnlBixNpjdZlUwXezg5u7Oy/C5Fxra41K3ZAREQEREBERAREQEREBa5ygY98CoJpQbSOHNwfaPuAR4DM791bGuK8uuLZqiClB6MbTK8fTfo2/eGg/wAasK5PXkGPI69hcsPymk77drTxHbrvvfHxv1uf+NNyq1sl3W7F4YFpl6+EXVRsqpFgPBfOaHeEF02VVoCXODWgkk2AAuSSbAAcSsfzbuBW6ckckDcUgNTca+h0uDMS1sYNteJN+0BB3Xk+2Xbh9I1hA5+Sz6h2/p20YD80DQeZ4rZ0RYaeZHWBPYCfUouYfd0jSd5DifHI4lScxJ1oZT2RvP3Soy4YPSM8/wAJQaQOr5D8lVoWMdI0SOLWG+Zw3jQ24HjZUh1fIfkvkW8X1F9UGWGBPcAWPjc1xNiHG4tG+S7wAcvRY7jpx01WNqICx7mOFnMc5rtQRdpIOo36hZSgPMzBjyQx9umLggOHQlaRusTr3Zgq+JYaWvdnuXXuSdc19S4u3k9/FdZxWzw43mkur99MBZLrItotQSLtvqL2JtqRfhpxWZnoKGSWIXkpmvc4OzkWy5HFrgSSGjOGNudOk7s0zcLPjczxv1Q5P8RMOI0zw7Kc+UHsLhYX7juI4glS0p5c7GuHygD4XG5RDxKhjpMRbHFO2ojZJC6OZtsrg7I/SxIuL238FKzZuXNTM7RcfmPYQsNsoiIgIiICIiAiIgIiIC5Hy3bPUsVPLiN5BUvfEwDP6N5sG6gg2tGwnS3VXXFxn9JGt9DQ043vkkk/gaGD+YVYOJu1d42PrFwPaqlrLy03l7s2ngDYfkqs41VR5svq8hfcyo9hdR5DNnxLVvqni7KcdC/+K+4B8m5j4kLnez+Huq6iOnZo+R7WNJ1aMxtc8bDU+SktydbMuw+ibBIWGUve+VzCSwkmzbFwB6gbw33S3wRs6Iiwqxxw/qtR9jJ/Lco3YYPSs/r5JUkMe/ZKn7GX+W5Rww0elj8fyQaGOr5BeWbwvo6vkF8bvQbGacz0xy6yQAvtxMZIzgeBs631u1Z3ZVra2EwuP6xCOibjpxH3lu7zb3rOYDVubPT0TQz4OaaHLZjb89JRsqDUZ7XuXvynWxZdtty+4pgjKR/wilp3Q83C2qjqRK90T3OlYyWkkjcMjRZ5DQ2x6A37x7JlqzL8vnZ4du2G/XmX+sVU4PHSxGeoJDRoxnynu4NHlxWmyCSqle+wAALncGRxjcPDgO0+K2zaCCor5gJXthkMj4KOmIecz2ZedBc0WYMxa3M69zpoASPGK4E+mpCxgLwLuqXgtGYtsCWsvnMbTpmtYG97aq53vfxInFLxSb855fqNFZYPbbcHD8Sl3seb0/7w/lsUQXnW6l1sT+zX+l/oYvFX0mwIiICIiAiIgIiICIiAo/8A6QFTmxSkj4RwB/m6V5PsYFIBRx5Z35sckHzKeMetp/8AdWDm0XBXzyHaq0YNAvbSqj2qcj17tdfWRC+qDoXIbh+fE2OI+Ljkl9gjH41IxcR/R/aDU1buLYmD+KQn/Su3KVYIiKCwx79kqfsZf5blHLC/jY/H8lI7Hf2Wo+xk/luUcML+Oj8fyQaCOr5D8l8ZvC+/J8h7wvLN4QdM2OxLPzV4c1RFG6GGbnSGtjLXNBkjykOe1rnNa640y3ByhZfGttKZ3VnLxFFzTabmHOZJM0sDJhITk5sZMw3E6jUOXP6qvbFT8xGbvkH6w4HRrb6RDtPzvVxNs7sLg7GEVdSBkF+YYd7nAj0hB4Dh23v4+yebMcfj52V69uTk9epG24JXiqr3PbGzO01EJMfSZHneJI5Rpfm3elGewF2i9swBscddEaptw81D/hQpDcNg9LLPHHFKLEu6Zebi3xgBuNRhOUGgY4tr6fo6tE+TQtebZZBbdwBtxy9qtqnaCWWnEscha85m1AAbpIW5TJGSCYy5htdtjoRfRWy+Yzx5TeOePq+L/ljRXn3KXWwr70jR2W9rQojSjepb7A/sbfL8IXir6bZEREBERAREQEREBERAUdOV6qd/+zPFFI9gkZC2qAccrzzYs17dxAblNj84lSKJUS9psT+EVldVXvnkkyH6JdzbCP3QCgwQcOG65sOwX0C92VtMyy3HH24acIoJKbI2uziOsbndzpsx2ZzmE2ylwBDgPlAdy1tGsiF9rixFr21BsNT3HS58l6BV9W1zuYIszrMbo0A5S15IuOHRCxsMzXENIIJIANxbU21ukHWf0fJrVtUz50DXD9yWx/GF3ZRV2Xw+QYzT0rHObNHVBkpabZeaktJZw3izXeIupVKVYIiKC2xNt4JR2xvH3So14P8AGx/18kqS9Z8W/wCq78JUaMHHpY/6+SUGg/J8h7wvLTY3Xq3R8h7wqYQZPC2sLw6TqN1I4uPBvh2ns8Qs1V406Q5i7uaBuA7AOAWqh69CU9pXbDl6zUcOTgmd3W64JiGYujku6JzJBKBxHNudx0v0bjw7kdhMEU8rIp7wyENjDsrnFpaHRyg3a4gPzN6tyL6C+muYBVZahhdawbJe5AB9C/Qk6a6BZSqx2nqrmeEh97tygZWjm2tyjIW6XaXWtvce261ly9tX7GcOCY7ny+2v4pSOhlfG+2Zu+xu3VoIseIsQpXcnx/UmeA/CFFDEub5x3NEmOwyF3W6o0PnceSlZyduPwRo4ZWe7X8l53pbSiIgIiICIiAiIgIiIMHtziJpsNrJgbOZBJkP0y0tZ94hRMmcBE1o4m58GjKPefUpNcszXHBKzLwERd9UVEZd7LqMctTmYxmRoLC45x1nB+WzXeBa631irAnboPBW8cZzMvoCbgnQWva9zwuCPJXoF2NPkqtHLG0jnY+dZaxbnyOAzXOR1jlOruB1N0RUrGWi4avaRqNbMfc/eHrWLIINxvGo8tVeVQjMsjomc3E5xMcZcXlrb6NLjq424qlGOmOy/vQdL5AKB0+J1FXIS4xscS47zJM43J8RnUhVzTkHwgQ4fLJxmmdY9rGdFvtL10tRRERB8c24I7dFGKiPNzMDtC14a7xvlPtUnlH/lV2Zlpa500bSYKhxkY4bmyHV7D33u4dx7ig5dLBYub2Ej1GytHRWWy4hhr25JC0hkuYsPAlps9viCR/EFj5qBwFwLjs4/8oMQiunQhUzToKKXVQwleSw9iDySpacnf7K36rPcVFCmpy97GAG7nBo8zZS22GjtT+BDfU0H/Ug2NERAREQEREBERAREQWeMYcypp5qeTqSsdG/ts5pFx363UbtrOS6toGSzu5uSnYBmkY7UdIAOcx1iN/C9rqTqsMew1tTSz07urLG+M92ZpAPkbHyQRCp9WkdicDp7bHy0XoQujkcx4s5pLHg8HNNiPWF9DNbLSLWOa7rDz7lUeNbqrKMhIcC0jQ3aQfavpbcIJJ8jlS1+EQgb2Pla7xMjnj7rmrdlxv8AR+xX9ppSeDZox4dB/wDtrsilUREUBcn5cMTIdSQNOozzO/Az/cXWFxDl3rom1lO2zudEPpHCxbldIcjbDW4IefBwQalS7Tx83LBUs5yAnM4NIbLG9rTaaEu0zgXFtcw0IsqcctMTaKojkadwcOak8HMfpf6pcO9a5VU7L3ZJzgNy7oPZYnW1nDXyurR1IFrSbbdUYZG7rMt36j1cFYyYCw7nOHqKwETHs6j3s+q5w9xV1HidS3+8zfWa1x9ZF/apo2vJMAfwc0+sK2fgsw+SD4EKtBj82ZocyMgm1xmB99l17Zbk9dVUkVRJKYjKM7WBmazCeiSSRvFju4qK5vsTs1USVcZELiGm+9oF9wuez1nsBUl8HoeZhZGTdwF3ntcTc27uA7gFY7ObMw0bbMu5x3uda/kBuWbQEREBERAREQEREBERAREQR15adnTTYiZ2i0VSOcB4CQaSDx6rv3lo2W6k/t/syMQonwiwlb06dx4SNGgJ7CLg+Pco1Pp3Nc5jmlr2Etc06EOabFp77rURsuK7dTVVEaSrihm0tHOczJ2uHVeSNHHtFhcb+1anHCAABuCyOHxQOeOfbK6L5Qie1kg7wXAg8dD27wvldhkTKi9M+R1OQL860NkBsbghpIPDUHiqjIbEYv8AAq6CcmzA7LN9m/ovPkDm8WhSfabi43cFFWODgu4ck+0PP03wWR3p6cAC+98O5jh226p8B2qVY3tEXl7wASSAALkk2AA3knsWVU6upZFG+SRwbGxpc9xNg1rRck+Si1tJjLq+tnqyCGvd6Jp3tYBlYD35QL95K3DlO26OIPNHSk/A2O9LILjnnA6Af5YPrIvustOFNlFlvGM2sa5hXkxrImFeDCtosMi+ZFemJZnY/ZaSvqWwsuGCzp5LaMZff9Y7gOJ7gUGb5LthIcQ5yWobMIo3ANLS1sbzbpMv1r2OtuB3grv7GAAAAAAWAG4AbgFbYVh0VNDHBC0NjjFmj2kntJNyTxJKu1yt3W4IiKAiIgIiICIiAiIgIiICIiAuacqHJ+am9ZSt/WAPTRj+9AHWb9MD1+Oh6WiCJdy1xuCHDRwItqNDfsKS0wkNw9zD3KQ+13J/SV93kGKf/FYBc/aN3P8AHQ965VjXJZiEBJja2dnB0bulbvjdrfuF10llZ01TDGvbmbJIx1uoQ7p79zgVseDV74Jo5onZZYzdt+q4HrMeOLSN48DvAWuVuCztOWWItO70jQ133hdVaXC5cobzoa3h0y4jwTSbd7/tEoG0wnllEb9zoL5pw625rBq4djt3hrblu1u2dXit4o2up6Li2/pJR/mEcPojTx0KwtNhUDDdxzu793qV86oG4aBJiu1pFRNjbYBeHQq6L180WkWRhVN0Cv7agcToBxJ7AOJW2bPcntTUEOmBp4eOYemcPosPV8Xeop6GoYHs/NWTCGFt3b3uN8kbfnPPAd288F33ZXZ2GgpxDELnfK8jpSPtq4/kOAVxgmDQUkQigYGt3uO9zj857jqT/W5ZBc7ltqQREWVEREBERAREQEREBERAREQEREBERAREQfHAHQ6hWFRgdLJ16aB31oYz7wsgiDXptiMOdvpIx9XMz8JCxlTyZUDurz0f1ZSfxhy3RFd1NOf/ANlFL/1FT64f/mruk5MaFnWM8nc6QAf9trSt1RO1NRjsLwKmpviYI2HdmDemfF56R9ayKIooiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD/9k=",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:02:03.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c4"
+  },
+  "name": "iPhone 13 Pro Max",
+  "company": "Apple",
+  "category": "Smartphones",
+  "features": [
+    "6.7\" Super Retina XDR",
+    "A15 Bionic chip",
+    "Pro camera system",
+    "5G"
+  ],
+  "price": 129900,
+  "rating": 4.9,
+  "description": "Premium smartphone with ProMotion display and cinematic mode.",
+  "buyFrom": "Apple",
+  "link": "https://www.apple.com/in/iphone-13-pro/",
+  "image": "https://ola.tech/wp-content/uploads/iPhone-13-Pro-Max-Graphite.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:01:21.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c5"
+  },
+  "name": "Samsung Galaxy S21 Ultra",
+  "company": "Samsung",
+  "category": "Smartphones",
+  "features": [
+    "6.8\" Dynamic AMOLED",
+    "Exynos 2100",
+    "108MP camera",
+    "S Pen support"
+  ],
+  "price": 105999,
+  "rating": 4.8,
+  "description": "Flagship Android phone with S Pen compatibility.",
+  "buyFrom": "Samsung",
+  "link": "https://www.samsung.com/in/smartphones/galaxy-s21-ultra/",
+  "image": "https://m.media-amazon.com/images/I/61PkDjbUzYS._UF1000,1000_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:00:40.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c6"
+  },
+  "name": "OnePlus 9 Pro",
+  "company": "OnePlus",
+  "category": "Smartphones",
+  "features": [
+    "6.7\" Fluid AMOLED",
+    "Snapdragon 888",
+    "Hasselblad camera",
+    "Warp Charge 65T"
+  ],
+  "price": 64999,
+  "rating": 4.7,
+  "description": "Premium Android phone with Hasselblad camera system.",
+  "buyFrom": "OnePlus",
+  "link": "https://www.oneplus.in/9-pro",
+  "image": "https://www.neolight.in/wp-content/uploads/2022/01/oneplus-9pro-black.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T12:00:00.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c7"
+  },
+  "name": "Xiaomi Mi 11 Ultra",
+  "company": "Xiaomi",
+  "category": "Smartphones",
+  "features": [
+    "6.81\" AMOLED",
+    "Snapdragon 888",
+    "50MP triple camera",
+    "67W fast charging"
+  ],
+  "price": 69999,
+  "rating": 4.6,
+  "description": "Feature-packed flagship with secondary display.",
+  "buyFrom": "Mi",
+  "link": "https://www.mi.com/in/product/mi-11-ultra/",
+  "image": "https://m.media-amazon.com/images/I/81yT4Als0CS._UF350,350_QL80_.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:59:21.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c8"
+  },
+  "name": "Google Pixel 6 Pro",
+  "company": "Google",
+  "category": "Smartphones",
+  "features": [
+    "6.7\" LTPO OLED",
+    "Google Tensor",
+    "50MP main camera",
+    "Magic Eraser"
+  ],
+  "price": 71990,
+  "rating": 4.7,
+  "description": "Google's flagship with custom Tensor chip and best-in-class camera.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/google-pixel-6-pro-sunny-128-gb/p/itm3e8f4a1a1a1a1",
+  "image": "https://m.media-amazon.com/images/I/71YJ2QMIM6L.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:58:36.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947c9"
+  },
+  "name": "Vivo X70 Pro+",
+  "company": "Vivo",
+  "category": "Smartphones",
+  "features": [
+    "6.78\" AMOLED",
+    "Snapdragon 888+",
+    "Zeiss optics",
+    "55W fast charging"
+  ],
+  "price": 79990,
+  "rating": 4.6,
+  "description": "Premium camera phone with gimbal stabilization.",
+  "buyFrom": "Vivo",
+  "link": "https://www.vivo.com/in/products/x70proplus",
+  "image": "https://exstatic-in.vivo.com/Yg9VjLb5Z7ptsvQD/1632996535167/cb7dcb71d8bd1bfcec2871355069740f.png_w692-h692.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:57:55.971Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947ca"
+  },
+  "name": "Oppo Find X3 Pro",
+  "company": "Oppo",
+  "category": "Smartphones",
+  "features": [
+    "6.7\" AMOLED",
+    "Snapdragon 888",
+    "Microscope camera",
+    "65W SuperVOOC"
+  ],
+  "price": 69990,
+  "rating": 4.5,
+  "description": "Flagship with billion color display and microscope camera.",
+  "buyFrom": "Oppo",
+  "link": "https://www.oppo.com/in/smartphones/series-find-x/find-x3-pro/",
+  "image": "https://m.media-amazon.com/images/I/619qTCwNGtL.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:57:04.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947cb"
+  },
+  "name": "Realme GT 5G",
+  "company": "Realme",
+  "category": "Smartphones",
+  "features": [
+    "6.43\" Super AMOLED",
+    "Snapdragon 888",
+    "65W SuperDart Charge",
+    "3D"
+  ],
+  "price": 37999,
+  "rating": 4.4,
+  "description": "Performance flagship with racing-inspired design.",
+  "buyFrom": "Realme",
+  "link": "https://www.realme.com/in/realme-gt-5g",
+  "image": "https://rukminim2.flixcart.com/image/704/844/l3rmzrk0/mobile/f/z/n/-original-imagetme3gzbnc3z.jpeg?q=90&crop=false",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:56:18.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68824bf9f6413aa41b5947cc"
+  },
+  "name": "iQOO 7 Legend",
+  "company": "iQOO",
+  "category": "Smartphones",
+  "features": [
+    "6.62\" AMOLED",
+    "Snapdragon 888",
+    "66W FlashCharge",
+    "Monster Touch buttons"
+  ],
+  "price": 39990,
+  "rating": 4.3,
+  "description": "Performance-oriented phone with gaming features.",
+  "buyFrom": "iQOO",
+  "link": "https://www.iqoo.com/in/products/iqoo7legend",
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-24T15:06:33.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:55:39.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688a07e3d8b6be5b11c83bef"
+  },
+  "name": "Poco F3 GT",
+  "company": "Poco",
+  "category": "Smartphones",
+  "features": [
+    "6.67\\ AMOLED",
+    "Dimensity 1200",
+    "67W fast charging",
+    "Magnetic triggers"
+  ],
+  "price": 26999,
+  "rating": 4.2,
+  "description": "Gaming phone with magnetic pop-up triggers.",
+  "buyFrom": "Flipkart",
+  "link": "https://www.flipkart.com/search?q=poco+f3+gt+5g&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_10_na_na_na&as-pos=1&as-type=RECENT&suggestionId=poco+f3+gt+5g%7CMobiles&requestId=8d171a4d-a067-4ffe-b41d-1f8ebf62f5eb&as-searchtext=poco%20f3%20gt%205g",
+  "image": "https://m.media-amazon.com/images/I/310TIfL-wmL._UF1000,1000_QL80_.jpg",
+  "createdAt": {
+    "$date": "2025-07-30T11:54:11.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T11:54:11.104Z"
+  },
+  "__v": 0
+}]
