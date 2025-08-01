@@ -1,0 +1,6 @@
+[build]
+builder = "node"
+
+[start]
+cmd = "npm start"
+
