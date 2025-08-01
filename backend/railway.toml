@@ -1,6 +1,2 @@
 [build]
-builder = "node"
-
-[start]
-cmd = "npm start"
-
+  start = "npm install && npm start"
