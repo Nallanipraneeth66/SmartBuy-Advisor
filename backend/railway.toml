@@ -1,2 +1,3 @@
 [build]
+  base = "backend"
   start = "npm install && npm start"
