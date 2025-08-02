@@ -26,7 +26,7 @@ export const addToSearchHistoryAPI = async (
 
 //  Get search history for a user
 export const getSearchHistoryAPI = async (userId: string) => {
-  const res = await axios.get(`/api/history/${userId}`);
+  const res = await apiClient.get(`/history/${userId}`);
   return res.data;
 };
 

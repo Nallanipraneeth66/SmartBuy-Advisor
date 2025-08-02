@@ -6,7 +6,15 @@ const cors = require("cors");
 dotenv.config();
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:5173",               // local dev
+    "https://your-frontend-url.onrender.com",  // deployed frontend (replace with actual)
+  ],
+  credentials: true,
+}));
+
+app.use(express.json());
 app.use(express.json());
 
 app.get("/", (req, res) => {
