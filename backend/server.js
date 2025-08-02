@@ -10,11 +10,13 @@ const app = express();
 //  Use CORS — replace with your actual Vercel frontend URL
 app.use(cors({
   origin: [
-    "http://localhost:5173",  
-    "https://smartbuy-advisor-venkata-praneeth-s-projects.vercel.app",  //  deployed frontend
+    "http://localhost:5173",  // Local dev
+    "https://smart-buy-advisor.vercel.app", // Production frontend
+    "https://smart-buy-advisor-git-main-venkata-praneeth-s-projects.vercel.app" // Preview deploy
   ],
   credentials: true,
 }));
+
 
 app.use(express.json());
 
